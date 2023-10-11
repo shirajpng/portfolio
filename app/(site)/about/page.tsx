@@ -117,7 +117,7 @@ export default async function About() {
                 <div>
                   <Image
                     className="rounded-2xl mb-4 object-cover max-h-96 min-h-96 bg-top bg-[#1d1d20]"
-                    src={data.profileImage.image}
+                    src="/user.jpg"
                     width={400}
                     height={400}
                     quality={100}
