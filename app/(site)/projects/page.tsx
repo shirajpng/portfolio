@@ -9,36 +9,31 @@ export default async function Project() {
     {
       name: 'Dance Academy',
       slug: 'laravel',
-      tagline: 'Did this in laravel 5.x back in 2018. Mostly worked with modules in laravel for this project. During this this, also learned how to make laravel packages.',
-      logo: 'https://cdn.sanity.io/images/ga8lllhf/production/ee3f43185e81c4651b4c2da202fb22a04c9f2ed9-82x80.png',
+      tagline: 'Did this in laravel 5.x back in 2018. Mostly worked with modules in laravel for this project. During this time, also learned how to make laravel packages.',
       _id: 0
     },
     {
       name: 'X Real States',
       slug: 'laravel',
       tagline: 'Did this in laravel 5.x back in 2019. This was my most hectic work schedule since the deadline was just over a week. So had to complete it in a week, which i actually accomplished.',
-      logo: 'https://cdn.sanity.io/images/ga8lllhf/production/ee3f43185e81c4651b4c2da202fb22a04c9f2ed9-82x80.png',
       _id: 1
     },
     {
       name: 'Mirai Life Insurance',
       slug: 'Django',
       tagline: 'This was a crm web site and dashboard to work with customers, subscriptions and payments.',
-      logo: 'https://cdn.sanity.io/images/ga8lllhf/production/ba8e6b52388d90fd51b2364472cb409f50e77838-480x480.png',
       _id: 2
     },
     {
       name: 'Payment Gateway Portal',
       slug: 'Django',
-      tagline: 'Api project that included payment gateways such as including esewa, khalti, prabhupay, imepay, stripe, paytm, etc. Collaborate with international teams in this one.',
-      logo: 'https://cdn.sanity.io/images/ga8lllhf/production/ba8e6b52388d90fd51b2364472cb409f50e77838-480x480.png',
+      tagline: 'Api project that included payment gateways such as esewa, khalti, prabhupay, imepay, stripe, paytm, etc. Collaborated with international teams in this one.',
       _id: 3
     },
     {
       name: 'CRM System (Laravel/Fastapi/Nextjs)',
       slug: 'laravel-fastapi',
       tagline: 'Initally worked with laravel for its old version but later swtched to FastApi and Nextjs for new system.',
-      logo: 'https://cdn.sanity.io/images/ga8lllhf/production/ba8e6b52388d90fd51b2364472cb409f50e77838-480x480.png',
       _id: 4
     },
   ]
