@@ -3,30 +3,30 @@ import { getJob } from "@/sanity/sanity.query";
 import type { JobType } from "@/types";
 
 export default async function Job() {
-  
+
   const job = [
-  {
-    _id: 1,
-    url: "#",
-    logo: "https://st2.depositphotos.com/4263287/44917/v/450/depositphotos_449175198-stock-illustration-creative-blue-gradient-alphabet-letter.jpg",
-    name: "MandalaTech",
-    jobTitle : "Web Developer",
-    startDate: "01/02/2018",
-    endDate: "15/05/2019",
-    description: "This place is where my professional work journey actually began. Mandala team were a great bunch. Energetic and fun. Like minded people who seeked growth in everyday chores. It was a great pleasure working with them and getting to learn so much when i was just starting."
+    {
+      _id: 2,
+      url: "#",
+      logo: "https://st4.depositphotos.com/3867453/41389/v/600/depositphotos_413899548-stock-illustration-letter-logo-icon-design-template.jpg",
+      name: "NITV Nepal",
+      jobTitle: "Full Stack Developer",
+      startDate: "01/10/2019",
+      endDate: "Now",
+      description: "Started my NITV journey as a laravel developer, fastforwarding to today where im working on multiple projects and languages, specially python/django. Currently learning and working with Nexjs, having previous experience with jQuery and Vuejs as well. Having been employed here for 3+ years, i've come to acknowledge how a work environment can be tough and fun. Coding has become more than just work for me. Constantly plunging in it just takes me somewhere else, beyond."
 
-  },
-  {
-    _id: 2,
-    url: "#",
-    logo: "https://st4.depositphotos.com/3867453/41389/v/600/depositphotos_413899548-stock-illustration-letter-logo-icon-design-template.jpg",
-    name: "NITV Nepal",
-    jobTitle : "Full Stack Developer",
-    startDate: "01/10/2019",
-    endDate: "Now",
-    description: "Started my NITV journey as a laravel developer, fastforwarding to today where im working on multiple projects and languages, specially python/django. Currently learning and working with Nexjs, having previous experience with jQuery and Vuejs as well. Having been employed here for 3+ years, i've come to acknowledge how a work environment can be tough and fun. Coding has become more than just work for me. Constantly plunging in it just takes me somewhere else, beyond."
+    },
+    {
+      _id: 1,
+      url: "#",
+      logo: "https://st2.depositphotos.com/4263287/44917/v/450/depositphotos_449175198-stock-illustration-creative-blue-gradient-alphabet-letter.jpg",
+      name: "MandalaTech",
+      jobTitle: "Web Developer",
+      startDate: "01/02/2018",
+      endDate: "15/05/2019",
+      description: "This place is where my professional work journey actually began. Mandala team were a great bunch. Energetic and fun. Like minded people who seeked growth in everyday chores. It was a great pleasure working with them and getting to learn so much when i was just starting."
 
-  }];
+    }];
 
   return (
     <section className="mt-32">
