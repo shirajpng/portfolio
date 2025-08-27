@@ -12,8 +12,8 @@ export default async function Job() {
       name: "NITV Nepal",
       jobTitle: "Full Stack Developer",
       startDate: "01/10/2019",
-      endDate: "Now",
-      description: "Started my NITV journey as a laravel developer, fastforwarding to today where im working on multiple projects and languages, specially python/django. Currently learning and working with Nexjs, having previous experience with jQuery and Vuejs as well. Having been employed here for 3+ years, i've come to acknowledge how a work environment can be tough and fun. Coding has become more than just work for me. Constantly plunging in it just takes me somewhere else, beyond."
+      endDate: "16/07/2025",
+      description: "I started my NITV journey as a laravel developer, and later worked on multiple projects and languages, specially python/django. Here I learned and worked with Nexjs, having experience with jQuery and Vuejs as well. Having been employed here for ardoun 5 years, i've come to acknowledge how a work environment can be tough and fun. And just like that, coding became more than just work for me."
 
     },
     {
